@@ -1,5 +1,5 @@
 function lowerCaseOrNote(str) {
-  console.log(str === str.toLowerCase());
+  return str === str.toLowerCase();
 }
 
 lowerCaseOrNote("sssDd");

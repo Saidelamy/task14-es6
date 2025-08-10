@@ -4,6 +4,6 @@ function swap() {
 
   [x, y] = [y, x];
 
-  console.log(x, y);
+  return x, y;
 }
 swap();
